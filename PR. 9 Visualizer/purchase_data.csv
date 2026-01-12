@@ -1,0 +1,11 @@
+transaction_id,date,customer_id,product_name,quantity,unit_price,total_amount,payment_method,region
+T1001,2025-12-01,C452,Wireless Headphones,1,89.99,89.99,Credit Card,North
+T1002,2025-12-01,C128,Scented Candle,3,15.50,46.50,PayPal,East
+T1003,2025-12-02,C890,Cotton T-Shirt,2,25.00,50.00,Credit Card,West Coast
+T1004,2025-12-02,C452,Charging Cable,1,12.99,12.99,Debit Card,South
+T1005,2025-12-03,C334,Organic Coffee,2,18.00,36.00,Cash,Central
+T1006,2025-12-03,C711,Running Shoes,1,120.00,120.00,Credit Card,East
+T1007,2025-12-04,C202,Wall Clock,1,35.00,35.00,PayPal,West Coast
+T1008,2025-12-05,C559,Smartphone Case,2,19.99,39.98,Credit Card,North
+T1009,2025-12-05,C890,Woolen Socks,4,8.50,34.00,Debit Card,South
+T1010,2025-12-06,C112,Almond Milk,3,4.50,13.50,Cash,Central
