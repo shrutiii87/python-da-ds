@@ -1,0 +1,201 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+1,2024-02-21,1032,Rich Dad Poor Dad,Finance,11
+2,2024-05-08,1008,Python Crash Course,Education,1
+3,2024-06-27,1034,Rich Dad Poor Dad,Finance,30
+4,2024-03-20,1042,Rich Dad Poor Dad,Finance,24
+5,2024-04-23,1037,The Hobbit,Fantasy,17
+6,2024-04-10,1004,Harry Potter,Fantasy,20
+7,2024-05-21,1016,Rich Dad Poor Dad,Finance,6
+8,2024-04-10,1046,The Hobbit,Fantasy,30
+9,2024-02-26,1041,Deep Learning,Technology,16
+10,2024-05-10,1002,Harry Potter,Fantasy,13
+11,2024-06-23,1040,Harry Potter,Fantasy,4
+12,2024-05-21,1011,Atomic Habits,Self-Help,13
+13,2024-05-01,1040,Rich Dad Poor Dad,Finance,7
+14,2024-01-22,1038,Atomic Habits,Self-Help,3
+15,2024-03-29,1037,Atomic Habits,Self-Help,11
+16,2024-04-23,1009,The Alchemist,Fiction,2
+17,2024-04-09,1025,Deep Learning,Technology,12
+18,2024-03-31,1032,Harry Potter,Fantasy,13
+19,2024-06-20,1007,Data Science 101,Education,5
+20,2024-01-23,1029,The Alchemist,Fiction,10
+21,2024-05-11,1049,Python Crash Course,Education,22
+22,2024-02-11,1037,The Hobbit,Fantasy,4
+23,2024-05-20,1045,Data Science 101,Education,9
+24,2024-01-23,1034,Data Science 101,Education,8
+25,2024-06-11,1013,Atomic Habits,Self-Help,7
+26,2024-05-28,1006,Deep Learning,Technology,26
+27,2024-05-13,1043,Harry Potter,Fantasy,9
+28,2024-03-30,1046,Data Science 101,Education,17
+29,2024-05-14,1024,Rich Dad Poor Dad,Finance,8
+30,2024-04-09,1024,Atomic Habits,Self-Help,9
+31,2024-01-27,1029,Data Science 101,Education,5
+32,2024-03-20,1014,Atomic Habits,Self-Help,10
+33,2024-03-29,1002,Deep Learning,Technology,27
+34,2024-04-04,1040,Python Crash Course,Education,14
+35,2024-05-13,1015,Deep Learning,Technology,21
+36,2024-01-06,1017,Harry Potter,Fantasy,3
+37,2024-02-05,1013,Data Science 101,Education,28
+38,2024-03-12,1013,Python Crash Course,Education,13
+39,2024-04-01,1025,Harry Potter,Fantasy,4
+40,2024-01-30,1027,The Alchemist,Fiction,10
+41,2024-01-28,1038,Harry Potter,Fantasy,16
+42,2024-05-04,1002,Data Science 101,Education,25
+43,2024-02-17,1002,Rich Dad Poor Dad,Finance,22
+44,2024-06-19,1048,Harry Potter,Fantasy,21
+45,2024-05-25,1008,Data Science 101,Education,2
+46,2024-06-06,1049,Deep Learning,Technology,21
+47,2024-06-21,1026,Rich Dad Poor Dad,Finance,29
+48,2024-01-10,1037,Deep Learning,Technology,1
+49,2024-05-30,1034,Rich Dad Poor Dad,Finance,8
+50,2024-05-16,1031,Harry Potter,Fantasy,10
+51,2024-04-20,1008,Deep Learning,Technology,1
+52,2024-06-22,1036,Harry Potter,Fantasy,24
+53,2024-02-07,1024,Atomic Habits,Self-Help,1
+54,2024-02-05,1008,Rich Dad Poor Dad,Finance,26
+55,2024-06-12,1020,The Alchemist,Fiction,28
+56,2024-02-02,1047,Atomic Habits,Self-Help,30
+57,2024-06-29,1012,The Hobbit,Fantasy,3
+58,2024-04-07,1034,Rich Dad Poor Dad,Finance,14
+59,2024-01-16,1006,The Hobbit,Fantasy,4
+60,2024-01-05,1028,Atomic Habits,Self-Help,22
+61,2024-01-06,1038,Data Science 101,Education,17
+62,2024-01-16,1029,Data Science 101,Education,21
+63,2024-02-12,1024,Atomic Habits,Self-Help,28
+64,2024-02-06,1023,The Alchemist,Fiction,13
+65,2024-02-24,1012,Harry Potter,Fantasy,9
+66,2024-06-21,1043,Deep Learning,Technology,30
+67,2024-04-24,1033,Data Science 101,Education,29
+68,2024-03-30,1031,Data Science 101,Education,22
+69,2024-06-01,1046,Rich Dad Poor Dad,Finance,21
+70,2024-02-01,1004,Atomic Habits,Self-Help,19
+71,2024-01-19,1030,The Hobbit,Fantasy,30
+72,2024-05-15,1007,Atomic Habits,Self-Help,27
+73,2024-01-13,1022,Atomic Habits,Self-Help,27
+74,2024-01-02,1007,Deep Learning,Technology,10
+75,2024-04-22,1028,The Hobbit,Fantasy,18
+76,2024-02-24,1000,Deep Learning,Technology,25
+77,2024-02-04,1007,Data Science 101,Education,7
+78,2024-01-04,1014,Python Crash Course,Education,24
+79,2024-01-08,1044,Deep Learning,Technology,2
+80,2024-02-05,1024,Rich Dad Poor Dad,Finance,23
+81,2024-02-06,1019,Harry Potter,Fantasy,8
+82,2024-06-29,1000,Python Crash Course,Education,17
+83,2024-06-18,1038,The Alchemist,Fiction,25
+84,2024-03-14,1010,Python Crash Course,Education,12
+85,2024-01-30,1019,Deep Learning,Technology,28
+86,2024-06-19,1042,Atomic Habits,Self-Help,7
+87,2024-04-20,1021,Python Crash Course,Education,25
+88,2024-01-02,1044,Atomic Habits,Self-Help,10
+89,2024-04-25,1012,The Alchemist,Fiction,7
+90,2024-01-17,1048,Python Crash Course,Education,19
+91,2024-02-26,1017,Deep Learning,Technology,3
+92,2024-06-22,1007,Atomic Habits,Self-Help,1
+93,2024-01-06,1003,Harry Potter,Fantasy,28
+94,2024-04-05,1041,Data Science 101,Education,5
+95,2024-06-07,1033,Harry Potter,Fantasy,13
+96,2024-01-11,1002,The Hobbit,Fantasy,22
+97,2024-03-08,1047,Python Crash Course,Education,17
+98,2024-06-06,1032,Atomic Habits,Self-Help,4
+99,2024-01-08,1013,Deep Learning,Technology,17
+100,2024-04-04,1017,Deep Learning,Technology,25
+101,2024-03-22,1008,Rich Dad Poor Dad,Finance,3
+102,2024-03-12,1036,Deep Learning,Technology,28
+103,2024-03-21,1013,Deep Learning,Technology,24
+104,2024-06-19,1047,Atomic Habits,Self-Help,6
+105,2024-02-17,1001,The Hobbit,Fantasy,27
+106,2024-01-30,1047,Atomic Habits,Self-Help,5
+107,2024-01-06,1046,Python Crash Course,Education,3
+108,2024-04-29,1033,Rich Dad Poor Dad,Finance,15
+109,2024-02-22,1044,The Alchemist,Fiction,1
+110,2024-03-20,1027,Deep Learning,Technology,24
+111,2024-01-30,1002,Python Crash Course,Education,20
+112,2024-01-03,1007,Deep Learning,Technology,10
+113,2024-05-14,1036,The Hobbit,Fantasy,17
+114,2024-03-06,1025,The Hobbit,Fantasy,2
+115,2024-03-22,1020,Data Science 101,Education,30
+116,2024-04-18,1023,Python Crash Course,Education,1
+117,2024-05-18,1001,Harry Potter,Fantasy,20
+118,2024-05-24,1039,The Hobbit,Fantasy,26
+119,2024-05-21,1017,The Alchemist,Fiction,17
+120,2024-05-23,1032,Data Science 101,Education,30
+121,2024-05-04,1015,Harry Potter,Fantasy,4
+122,2024-05-21,1036,Rich Dad Poor Dad,Finance,11
+123,2024-05-20,1043,Harry Potter,Fantasy,28
+124,2024-01-01,1012,Rich Dad Poor Dad,Finance,28
+125,2024-02-19,1029,Python Crash Course,Education,22
+126,2024-02-13,1017,The Hobbit,Fantasy,14
+127,2024-05-03,1007,Atomic Habits,Self-Help,21
+128,2024-05-10,1006,Python Crash Course,Education,4
+129,2024-06-05,1024,Atomic Habits,Self-Help,10
+130,2024-03-17,1006,The Hobbit,Fantasy,13
+131,2024-04-15,1045,Python Crash Course,Education,6
+132,2024-05-17,1008,Rich Dad Poor Dad,Finance,6
+133,2024-04-19,1034,The Alchemist,Fiction,6
+134,2024-04-07,1035,Atomic Habits,Self-Help,25
+135,2024-05-08,1041,Atomic Habits,Self-Help,21
+136,2024-06-06,1020,Data Science 101,Education,13
+137,2024-04-26,1007,The Hobbit,Fantasy,21
+138,2024-03-31,1018,Data Science 101,Education,9
+139,2024-05-19,1010,The Alchemist,Fiction,27
+140,2024-05-08,1046,Python Crash Course,Education,14
+141,2024-05-03,1029,Atomic Habits,Self-Help,6
+142,2024-02-28,1015,Rich Dad Poor Dad,Finance,3
+143,2024-05-22,1001,The Hobbit,Fantasy,2
+144,2024-06-25,1046,Python Crash Course,Education,18
+145,2024-05-02,1042,Data Science 101,Education,6
+146,2024-06-10,1041,Python Crash Course,Education,28
+147,2024-03-20,1042,Atomic Habits,Self-Help,4
+148,2024-03-03,1017,The Alchemist,Fiction,24
+149,2024-05-18,1018,Deep Learning,Technology,2
+150,2024-02-27,1018,The Hobbit,Fantasy,29
+151,2024-04-19,1012,Atomic Habits,Self-Help,2
+152,2024-06-22,1015,Python Crash Course,Education,16
+153,2024-06-08,1045,The Hobbit,Fantasy,3
+154,2024-01-09,1050,Harry Potter,Fantasy,4
+155,2024-06-27,1007,Harry Potter,Fantasy,18
+156,2024-03-01,1046,The Hobbit,Fantasy,7
+157,2024-06-17,1034,Harry Potter,Fantasy,16
+158,2024-01-28,1021,The Alchemist,Fiction,4
+159,2024-06-18,1002,The Hobbit,Fantasy,23
+160,2024-01-25,1019,Python Crash Course,Education,21
+161,2024-04-17,1016,Atomic Habits,Self-Help,16
+162,2024-03-15,1033,Harry Potter,Fantasy,22
+163,2024-03-23,1006,The Hobbit,Fantasy,28
+164,2024-03-25,1047,Rich Dad Poor Dad,Finance,13
+165,2024-04-28,1032,Data Science 101,Education,18
+166,2024-05-16,1035,The Hobbit,Fantasy,29
+167,2024-03-21,1027,Rich Dad Poor Dad,Finance,19
+168,2024-06-24,1042,Python Crash Course,Education,18
+169,2024-05-23,1008,Atomic Habits,Self-Help,4
+170,2024-04-03,1039,Python Crash Course,Education,9
+171,2024-05-29,1033,Rich Dad Poor Dad,Finance,21
+172,2024-04-21,1013,Deep Learning,Technology,18
+173,2024-03-08,1038,Python Crash Course,Education,17
+174,2024-03-01,1001,Data Science 101,Education,4
+175,2024-06-15,1027,Atomic Habits,Self-Help,30
+176,2024-05-27,1033,Harry Potter,Fantasy,29
+177,2024-04-18,1039,Atomic Habits,Self-Help,2
+178,2024-06-26,1013,Deep Learning,Technology,8
+179,2024-04-18,1038,Data Science 101,Education,22
+180,2024-05-07,1021,Atomic Habits,Self-Help,24
+181,2024-03-24,1029,Data Science 101,Education,10
+182,2024-02-04,1000,Deep Learning,Technology,7
+183,2024-03-09,1046,The Hobbit,Fantasy,21
+184,2024-03-14,1038,The Alchemist,Fiction,14
+185,2024-04-15,1033,Deep Learning,Technology,14
+186,2024-05-07,1043,Python Crash Course,Education,10
+187,2024-02-23,1021,Rich Dad Poor Dad,Finance,4
+188,2024-04-06,1023,Harry Potter,Fantasy,30
+189,2024-01-19,1041,Rich Dad Poor Dad,Finance,15
+190,2024-01-31,1050,The Hobbit,Fantasy,2
+191,2024-06-04,1010,Rich Dad Poor Dad,Finance,28
+192,2024-05-12,1000,Deep Learning,Technology,15
+193,2024-01-08,1016,Atomic Habits,Self-Help,1
+194,2024-05-30,1036,Atomic Habits,Self-Help,30
+195,2024-03-08,1032,Harry Potter,Fantasy,18
+196,2024-05-26,1045,Python Crash Course,Education,18
+197,2024-05-16,1002,Rich Dad Poor Dad,Finance,2
+198,2024-01-03,1026,Harry Potter,Fantasy,24
+199,2024-02-07,1002,Python Crash Course,Education,30
+200,2024-05-23,1042,Atomic Habits,Self-Help,16
